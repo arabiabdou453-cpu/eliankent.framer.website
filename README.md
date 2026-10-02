@@ -5,11 +5,18 @@
 </p>
 
 <p align="center">
+  <a href="https://eliankent-theta.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-eliankent--theta.vercel.app-00DC82?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" /></a>
   <a href="https://vite.dev"><img src="https://img.shields.io/badge/Vite-6.x-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" /></a>
   <a href="https://react.dev"><img src="https://img.shields.io/badge/React-19.x-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" /></a>
   <a href="https://www.typescriptlang.org"><img src="https://img.shields.io/badge/TypeScript-5.x-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></a>
-  <a href="https://vercel.com"><img src="https://img.shields.io/badge/Vercel-Deployment-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" /></a>
 </p>
+
+---
+
+## 🔗 Live Site
+
+- **Production URL**: [https://eliankent-theta.vercel.app](https://eliankent-theta.vercel.app)
+- **Direct Alias**: [https://eliankent.vercel.app](https://eliankent.vercel.app)
 
 ---
 
@@ -74,22 +81,6 @@
    npm run build
    ```
    The production-ready artifacts will be generated in the `dist/` directory.
-
----
-
-## 🌐 Deploying to Vercel
-
-### Option 1: Automatic Deployment (Recommended)
-1. Push this repository to GitHub.
-2. Go to [Vercel Dashboard](https://vercel.com/new).
-3. Import the `eliankent.framer.website` repository.
-4. Vercel will automatically detect the **Vite** framework settings from `vercel.json`.
-5. Click **Deploy**.
-
-### Option 2: Deploy via Vercel CLI
-```bash
-npx vercel --prod
-```
 
 ---
 
